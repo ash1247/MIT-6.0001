@@ -1,0 +1,8 @@
+*.pdf
+*.pyc
+*.zip
+.vscode/
+.vs/
+lab5/
+Assignment/
+Lectures/
